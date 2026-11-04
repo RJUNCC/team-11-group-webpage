@@ -129,7 +129,11 @@ button:hover {
     border: 3px solid #71b6eb;
 }
 
+#malaya .avatar {
+    border: 3px solid #f060A0;
+}
+
 #vision {
     /* template */
-    color: black 
+    color: black
 }
