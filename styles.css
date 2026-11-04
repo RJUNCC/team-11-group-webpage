@@ -116,7 +116,11 @@ button:hover {
 #jamison .moodboard {
     border-color: #8A00C4;
 }
+#antonio .avatar {
+    border: 3px solid #71b6eb;
+}
+
 #vision {
     /* template */
-    color: red 
+    color: black 
 }
