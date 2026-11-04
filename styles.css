@@ -109,6 +109,13 @@ button:hover {
     border-color: #33ff66;
 }
 
+#jamison .avatar {
+    border: 3px solid #8A00C4;
+}
+
+#jamison .moodboard {
+    border-color: #8A00C4;
+}
 #vision {
     /* template */
     color: red 
