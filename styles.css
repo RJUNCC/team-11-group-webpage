@@ -118,7 +118,11 @@ button:hover {
     border-color: #33ff66;
 }
 
+#antonio .avatar {
+    border: 3px solid #71b6eb;
+}
+
 #vision {
     /* template */
-    color: red 
+    color: black 
 }
